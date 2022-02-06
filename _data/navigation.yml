@@ -1,14 +1,17 @@
 # main links links
 main:
-  - title: "Seattle, WA"
   
-  - email: "vtl001@uw.edu"
+  - title: "Email me" 
+    url: "mailto: vtl001@uw.edu"
   
   - title: "Google Scholar"
     url: "https://scholar.google.com/citations?hl=en&user=Mslx6vsAAAAJ&view_op=list_works&sortby=pubdate"
-    
+  
   - title: "CV"
-    url: /cv/
+    url: "https://lettvi.github.io/files/Vi Le_CV.pdf"
+    
+  #- title: "CV"
+  #  url: /cv/
     
   #- title: "Publications"
   #  url: /publications/
