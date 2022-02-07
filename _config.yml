@@ -83,11 +83,12 @@ author:
   avatar           : "Untitled_Artwork.png"
   bio              : "Has potential to play Tetris competitively"
   location         : "Seattle, Washington"
+  address          : "vtl001@uw.edu"
   pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "https://scholar.google.com/citations?hl=en&user=Mslx6vsAAAAJ&view_op=list_works&sortby=pubdate"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "vtl001@uw.edu"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
