@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : # example "Your Sidebar Name"
-  avatar           : "Untitled_Artwork.pdf"
+  avatar           : "Untitled_Artwork.png"
   bio              : "Has potential to play Tetris competitively"
   location         : "Seattle, Washington"
   pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
