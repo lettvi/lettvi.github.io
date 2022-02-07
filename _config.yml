@@ -80,13 +80,12 @@ analytics:
 # Site Author
 author:
   name             : # example "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "Untitled_Artwork.pdf"
   bio              : "Has potential to play Tetris competitively"
   location         : "Seattle, Washington"
-  email            : "vtl001@uw.edu"
   pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "https://scholar.google.com/citations?hl=en&user=Mslx6vsAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "vtl001@uw.edu"
+  email            : vtl001@uw.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
