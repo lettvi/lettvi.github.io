@@ -85,9 +85,9 @@ author:
   location         : "Seattle, Washington"
   pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "https://scholar.google.com/citations?hl=en&user=Mslx6vsAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : vtl001@uw.edu
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "vtl001@uw.edu"
   bitbucket        :
   codepen          :
   dribbble         :
