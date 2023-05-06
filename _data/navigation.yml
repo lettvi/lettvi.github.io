@@ -1,15 +1,14 @@
 # main links links
 main:
   
-  - title: "CV"
-    url: "https://lettvi.github.io/files/Vi Le_CV.pdf"
+  #- title: "CV"
+  #  url: "https://lettvi.github.io/files/Vi Le_CV.pdf"
     
   - title: "Google Scholar"
     url: "https://scholar.google.com/citations?hl=en&user=Mslx6vsAAAAJ&view_op=list_works&sortby=pubdate"
   
-    
-  #- title: "CV"
-  #  url: /cv/
+  - title: "What kind of Asian are you?"
+    url: /asian/
     
   #- title: "Publications"
   #  url: /publications/
