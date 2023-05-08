@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-The game that asks, "Who wins when you get a BINGO?". 
+A game (in development) that asks, "Who wins when you get a BINGO?"
 
-Work experience
+Premise
 ======
 * Skill 1
-* Skill 2
+* Is the goal to be white? More thoughts about this can be found here, here, and here. 
   * Sub-skill 2.1
-* Skill 3
+* It's a cheeky joke! 
 
 Publications
 ======
