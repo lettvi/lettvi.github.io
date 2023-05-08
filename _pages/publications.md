@@ -7,11 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-======
-======
 The game that asks, "Who wins when you get a BINGO?". 
-======
-
 
 Work experience
 ======
