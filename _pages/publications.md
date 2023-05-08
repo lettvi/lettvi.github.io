@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-A game (in development) that asks, "Who wins when you get a BINGO?"
+A game (in development) that asks, "Who wins when you get a BINGO?".
 
 Premise
 ======
