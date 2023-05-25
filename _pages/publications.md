@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "What type of Asian are you?"
+title: "What kind of Asian are you?"
 permalink: /publications/
 author_profile: true
 ---
 
-![pic.png](https://raw.githubusercontent.com/lettvi/lettvi.github.io/master/files/resized2.png)
+![pic.png](https://github.com/lettvi/lettvi.github.io/blob/master/files/resized.png)
 
 The game (in development) that asks, "Who wins when you get a BINGO?".
 
