@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-A game (in development) that asks, "Who wins when you get a BINGO?".
+![Untitled_Artwork 2.pdf](https://github.com/lettvi/lettvi.github.io/files/11560628/Untitled_Artwork.2.pdf)
+
+
+
+The game (in development) that asks, "Who wins when you get a BINGO?".
 
 Premise
 ======
@@ -22,3 +26,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
+
+* publications
