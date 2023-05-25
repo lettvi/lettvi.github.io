@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-![resized.png](https://github.com/lettvi/lettvi.github.io/blob/master/files/resized.png?raw=true)
+![resized.png](https://github.com/lettvi/lettvi.github.io/blob/master/files/resized2.png?raw=true)
 
 
 Premise
