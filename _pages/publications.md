@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![Untitled_Artwork 2.pdf]([https://github.com/lettvi/lettvi.github.io/files/Untitled_Artwork 2.pdf](https://github.com/lettvi/lettvi.github.io/blob/84a8447c59c2fe5c54206f56829e38ae4ef050f7/files/Untitled_Artwork%202.pdf))
+![pic.pdf](https://github.com/lettvi/lettvi.github.io/blob/5ce14f02e984f803e877e940be9515b4292906de/files/resized.png)
 
 The game (in development) that asks, "Who wins when you get a BINGO?".
 
