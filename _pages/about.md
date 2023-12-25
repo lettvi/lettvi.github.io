@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I do research with the [Social Development Research Group](https://depts.washington.edu/sdrg/) in the School of Social Work, University of Washington. My research interests include substance use epidemiology and the effects of policies, programs, and where we live on our health. 
+I do research with the [Social Development Research Group](https://depts.washington.edu/sdrg/) in the School of Social Work, University of Washington. My research interests include substance use epidemiology and the effects policies, programs, and where we live have on our health. 
 
 Emigrated from Vietnam, I was raised in Akron, Ohio (and hence, became [just another kid from Akron](https://www.cleveland.com/cavs/2016/06/lebron_james_im_just_a_kid_fro.html)). I received my PhD in Epidemiology at University of Washington, where my dissertation (advised by [Isaac Rhew](https://epi.washington.edu/faculty/rhew-isaac/)) examined the relationship between cannabis use and access on prescription opioid use and other related outcomes among injured workers. During my PhD training, I was a research assistant with the [Occupational Epidemiology and Health Outcomes Program](https://deohs.washington.edu/occepi/occupational-epidemiology-and-health-outcomes-program), under the direction of [Gary Franklin](https://deohs.washington.edu/faculty/gary-m-franklin) and [Deborah Fulton-Kehoe](http://depts.washington.edu/hservphd/articles/1732). We collaborated with [WA State Labor & Industries](https://www.lni.wa.gov/) in order to evaluate policies, best practices, and health delivery models aimed at reducing work-related injuries and disability. 
 
